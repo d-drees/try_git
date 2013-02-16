@@ -1,2 +1,2 @@
 edited in master & geändert in testbranch
-edited in gittest2
+edited in gittest2 & edited in gittest1
